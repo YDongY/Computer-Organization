@@ -17,7 +17,7 @@
 * 优先级底的设备难以获得请求
 * 对电路故障敏感
 
-![](.gitbook/assets/lian-shi-cha-xun-fang-shi-.png)
+![](../.gitbook/assets/lian-shi-cha-xun-fang-shi-.png)
 
 
 
@@ -25,7 +25,7 @@
 
 仲裁控制器分别与设备连接，并且仲裁控制器有一个计数器，假设此时设备 3 需要使用总线，则设备 3 会通过仲裁控制线向仲裁控制器发送请求，仲裁控制器计数器从 0 开始计数，并通过设备地址线向所有设备发送地址信号，当某个请求占用总线的设备地址与计数值一直时，便获得总线控制权，此时停止计数查询，否则计数值增加继续发送
 
-![](.gitbook/assets/ji-shu-qi-ding-shi-cha-xun-.png)
+![](../.gitbook/assets/ji-shu-qi-ding-shi-cha-xun-.png)
 
 ### 独立请求
 
@@ -34,5 +34,5 @@
 * 同时收到多个信号，仲裁器按照优先级分配使用权
 * 响应速度快、优先次序控制灵活、但控制总线数量多、总线控制复杂
 
-![](.gitbook/assets/du-li-qing-qiu-.png)
+![](../.gitbook/assets/du-li-qing-qiu-.png)
 

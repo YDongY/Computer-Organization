@@ -4,7 +4,7 @@
 
 CPU 、主存、I/O 设备都挂在一组总线上，允许之间相互直接交换信息，结构简单，但是容易出现瓶颈
 
-![](.gitbook/assets/dan-zong-xian-jie-gou-.png)
+![](../.gitbook/assets/dan-zong-xian-jie-gou-.png)
 
 ## 双总线结构
 
@@ -12,7 +12,7 @@ CPU 、主存、I/O 设备都挂在一组总线上，允许之间相互直接交
 
 通道是一个具有特殊功能的处理器，CPU 将一部分功能下放给通道，使其对 I/O 设备具有同一管理的功能，完成外部设备与主存储器之间数据传送
 
-![](.gitbook/assets/shuang-zong-xian-jie-gou-.png)
+![](../.gitbook/assets/shuang-zong-xian-jie-gou-.png)
 
 ## 三总线结构
 
@@ -20,5 +20,5 @@ CPU 、主存、I/O 设备都挂在一组总线上，允许之间相互直接交
 
 **在三总线结构中，任一时刻只能使用一种总线，主存总线与 DMA 总线不能同时对主存进行存取，I/O 总线只有在 CPU 执行 I/O 指令时才能用到。**
 
-![](.gitbook/assets/san-zong-xian-jie-gou-.png)
+![](../.gitbook/assets/san-zong-xian-jie-gou-.png)
 

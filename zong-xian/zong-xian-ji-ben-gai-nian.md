@@ -8,7 +8,7 @@
 
 ## 总线的物理实现
 
-![](.gitbook/assets/zong-xian-de-wu-li-shi-xian-.png)
+![](../.gitbook/assets/zong-xian-de-wu-li-shi-xian-.png)
 
 从物理角度，总线由许多导线直接印刷在电路板上，延伸到各个部件。
 

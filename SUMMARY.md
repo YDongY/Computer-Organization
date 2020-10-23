@@ -12,12 +12,10 @@
 
 ## 总线
 
----
-
-* [总线基本概念](zong-xian-ji-ben-gai-nian.md)
-* [总线分类](zong-xian-fen-lei.md)
-* [总线结构](zong-xian-jie-gou.md)
-* [总线控制](zong-xian-kong-zhi.md)
+* [总线基本概念](zong-xian/zong-xian-ji-ben-gai-nian.md)
+* [总线分类](zong-xian/zong-xian-fen-lei.md)
+* [总线结构](zong-xian/zong-xian-jie-gou.md)
+* [总线控制](zong-xian/zong-xian-kong-zhi.md)
 
 ## 数据表示与运算
 
