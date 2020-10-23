@@ -14,6 +14,8 @@
 * [进制运算与转换](shu-ju-biao-shi-yu-yun-suan/jin-zhi-yun-suan-yu-zhuan-huan.md)
 * [BCD 码](shu-ju-biao-shi-yu-yun-suan/bcd-ma.md)
 * [字符与字符串](shu-ju-biao-shi-yu-yun-suan/zi-fu-yu-zi-fu-chuan.md)
+* [奇偶校验码](shu-ju-biao-shi-yu-yun-suan/qi-ou-xiao-yan-ma.md)
+* [定点数](shu-ju-biao-shi-yu-yun-suan/ding-dian-shu.md)
 
 ## 存储系统
 
@@ -21,6 +23,10 @@
 * [主存储器基本组成](cun-chu-xi-tong/zhu-cun-chu-qi-ji-ben-zu-cheng.md)
 
 ## 指令系统
+
+---
+
+* [地址指令](di-zhi-zhi-ling.md)
 
 ## 中央处理器
 
