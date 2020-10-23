@@ -4,10 +4,20 @@
 
 ## 计算机系统概述
 
-* [计算机的发展](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-fa-zhan-li-cheng-bei.md)
-* [计算机各硬件组成](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-ge-ying-jian-zu-cheng.md)
-* [计算机的工作过程](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-de-gong-zuo-guo-cheng.md)
+* [计算机的发展历史](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-fa-zhan-li-cheng-bei.md)
 * [计算机层次结构](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-ceng-ci-jie-gou.md)
+* [计算机的基本组成](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-ge-ying-jian-zu-cheng.md)
+* [计算机的工作步骤](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-de-gong-zuo-guo-cheng.md)
+* [计算机硬件的主要技术指标](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-ying-jian-de-zhu-yao-ji-shu-zhi-biao.md)
+
+## 总线
+
+---
+
+* [总线基本概念](zong-xian-ji-ben-gai-nian.md)
+* [总线分类](zong-xian-fen-lei.md)
+* [总线结构](zong-xian-jie-gou.md)
+* [总线控制](zong-xian-kong-zhi.md)
 
 ## 数据表示与运算
 
@@ -26,12 +36,9 @@
 
 ---
 
-* [Untitled](untitled.md)
 * [地址指令](di-zhi-zhi-ling.md)
 
 ## 中央处理器
-
-## 总线
 
 ## IO 系统
 
