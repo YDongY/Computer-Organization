@@ -17,6 +17,16 @@
 * [总线结构](zong-xian/zong-xian-jie-gou.md)
 * [总线控制](zong-xian/zong-xian-kong-zhi.md)
 
+## 存储系统
+
+* [存储器层次结构](cun-chu-xi-tong/cun-chu-qi-ceng-ci-jie-gou.md)
+* [主存储器基本组成](cun-chu-xi-tong/zhu-cun-chu-qi-ji-ben-zu-cheng.md)
+* [半导体存储芯片](cun-chu-xi-tong/ban-dao-ti-cun-chu-xin-pian.md)
+* [随机存取存储器](cun-chu-xi-tong/sui-ji-cun-qu-cun-chu-qi.md)
+* [只读存储器](cun-chu-xi-tong/zhi-du-cun-chu-qi.md)
+* [高速缓冲存储器](cun-chu-xi-tong/gao-su-huan-chong-cun-chu-qi.md)
+* [辅助存储器](cun-chu-xi-tong/fu-zhu-cun-chu-qi.md)
+
 ## 数据表示与运算
 
 * [进制运算与转换](shu-ju-biao-shi-yu-yun-suan/jin-zhi-yun-suan-yu-zhuan-huan.md)
@@ -24,11 +34,6 @@
 * [字符与字符串](shu-ju-biao-shi-yu-yun-suan/zi-fu-yu-zi-fu-chuan.md)
 * [奇偶校验码](shu-ju-biao-shi-yu-yun-suan/qi-ou-xiao-yan-ma.md)
 * [定点数](shu-ju-biao-shi-yu-yun-suan/ding-dian-shu.md)
-
-## 存储系统
-
-* [存储器层次结构](cun-chu-xi-tong/cun-chu-qi-ceng-ci-jie-gou.md)
-* [主存储器基本组成](cun-chu-xi-tong/zhu-cun-chu-qi-ji-ben-zu-cheng.md)
 
 ## 指令系统
 
