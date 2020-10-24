@@ -27,12 +27,22 @@
 * [高速缓冲存储器](cun-chu-xi-tong/gao-su-huan-chong-cun-chu-qi.md)
 * [辅助存储器](cun-chu-xi-tong/fu-zhu-cun-chu-qi.md)
 
+## 输入输出系统
+
+* [输入输出系统的概况](shu-ru-shu-chu-xi-tong/shu-ru-shu-chu-xi-tong-de-gai-kuang.md)
+* [I/O 控制方式](shu-ru-shu-chu-xi-tong/io-kong-zhi-fang-shi.md)
+
+## 中央处理器
+
+* [门电路的基本原理](zhong-yang-chu-li-qi/men-dian-lu-de-ji-ben-yuan-li.md)
+* [进制运算与转换](zhong-yang-chu-li-qi/jin-zhi-yun-suan-yu-zhuan-huan.md)
+* [计算机的计算方法](zhong-yang-chu-li-qi/ji-suan-ji-de-ji-suan-fang-fa.md)
+* [定点和浮点](zhong-yang-chu-li-qi/ding-dian-he-fu-dian.md)
+* [BCD 码](zhong-yang-chu-li-qi/bcd-ma.md)
+
 ## 数据表示与运算
 
-* [进制运算与转换](shu-ju-biao-shi-yu-yun-suan/jin-zhi-yun-suan-yu-zhuan-huan.md)
-* [BCD 码](shu-ju-biao-shi-yu-yun-suan/bcd-ma.md)
 * [字符与字符串](shu-ju-biao-shi-yu-yun-suan/zi-fu-yu-zi-fu-chuan.md)
-* [奇偶校验码](shu-ju-biao-shi-yu-yun-suan/qi-ou-xiao-yan-ma.md)
 * [定点数](shu-ju-biao-shi-yu-yun-suan/ding-dian-shu.md)
 
 ## 指令系统
