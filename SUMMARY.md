@@ -32,11 +32,5 @@
 
 ## 指令系统
 
----
-
-* [地址指令](di-zhi-zhi-ling.md)
-
-## 中央处理器
-
-## IO 系统
+* [地址指令](zhi-ling-xi-tong/di-zhi-zhi-ling.md)
 
