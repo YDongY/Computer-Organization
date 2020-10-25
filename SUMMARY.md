@@ -35,6 +35,7 @@
 
 * [门电路的基本原理](zhong-yang-chu-li-qi/men-dian-lu-de-ji-ben-yuan-li.md)
 * [寄存器的基本原理](zhong-yang-chu-li-qi/ji-cun-qi-de-ji-ben-yuan-li.md)
+* [寄存器基本原理](zhong-yang-chu-li-qi/ji-cun-qi-ji-ben-yuan-li.md)
 * [逻辑运算的实现](zhong-yang-chu-li-qi/luo-ji-yun-suan-de-shi-xian.md)
 * [加法和减法的实现](zhong-yang-chu-li-qi/jia-fa-he-jian-fa-de-shi-xian.md)
 * [乘法器和除法器](zhong-yang-chu-li-qi/cheng-fa-qi-he-chu-fa-qi.md)
