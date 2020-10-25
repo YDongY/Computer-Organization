@@ -22,17 +22,17 @@ PMOS 与 NMOS 刚好相反，如果 Gate 连接了低电平，表示晶体管导
 
 ![](../.gitbook/assets/fei-men-gong-zuo-guo-cheng-.png)
 
-## 与门
+### 与门
 
 ![](../.gitbook/assets/yu-men-.png)
 
 ![](../.gitbook/assets/yu-fei-men-gong-zuo-guo-cheng-.png)
 
-## 或门
+### 或门
 
 ![](../.gitbook/assets/huo-men-.png)
 
-## 异或门
+### 异或门
 
 ![](../.gitbook/assets/yi-huo-men-.png)
 

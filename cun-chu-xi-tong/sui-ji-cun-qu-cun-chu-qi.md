@@ -23,7 +23,7 @@ T7、T8 受列地址选择信号控制
 ![](../.gitbook/assets/jing-tai-ram-ji-ben-dian-lu-de-xie-cao-zuo-.png)
 
 {% hint style="info" %}
-静态RAM 保存 0 和 1 用的是[**双稳态触发器**](https://baike.baidu.com/item/%E5%8F%8C%E7%A8%B3%E6%80%81%E8%A7%A6%E5%8F%91%E5%99%A8)，动态 RAM 利用的是电容，电容中保存了电荷就认为存储的信息就是 1，电容中没有被充电就认为存储的信息就是 0
+静态 RAM 保存 0 和 1 用的是[**双稳态触发器**](https://baike.baidu.com/item/%E5%8F%8C%E7%A8%B3%E6%80%81%E8%A7%A6%E5%8F%91%E5%99%A8)，动态 RAM 利用的是**电容**，电容中保存了电荷就认为存储的信息就是 1，电容中没有被充电就认为存储的信息就是 0
 {% endhint %}
 
 ## 动态 RAM（DRAM）

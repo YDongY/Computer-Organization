@@ -23,7 +23,6 @@
 * [主存储器基本组成](cun-chu-xi-tong/zhu-cun-chu-qi-ji-ben-zu-cheng.md)
 * [半导体存储芯片](cun-chu-xi-tong/ban-dao-ti-cun-chu-xin-pian.md)
 * [随机存取存储器](cun-chu-xi-tong/sui-ji-cun-qu-cun-chu-qi.md)
-* [只读存储器](cun-chu-xi-tong/zhi-du-cun-chu-qi.md)
 * [高速缓冲存储器](cun-chu-xi-tong/gao-su-huan-chong-cun-chu-qi.md)
 * [辅助存储器](cun-chu-xi-tong/fu-zhu-cun-chu-qi.md)
 
@@ -35,6 +34,11 @@
 ## 中央处理器
 
 * [门电路的基本原理](zhong-yang-chu-li-qi/men-dian-lu-de-ji-ben-yuan-li.md)
+* [寄存器的基本原理](zhong-yang-chu-li-qi/ji-cun-qi-de-ji-ben-yuan-li.md)
+* [逻辑运算的实现](zhong-yang-chu-li-qi/luo-ji-yun-suan-de-shi-xian.md)
+* [加法和减法的实现](zhong-yang-chu-li-qi/jia-fa-he-jian-fa-de-shi-xian.md)
+* [乘法器和除法器](zhong-yang-chu-li-qi/cheng-fa-qi-he-chu-fa-qi.md)
+* [处理器的设计](zhong-yang-chu-li-qi/chu-li-qi-de-she-ji.md)
 * [进制运算与转换](zhong-yang-chu-li-qi/jin-zhi-yun-suan-yu-zhuan-huan.md)
 * [计算机的计算方法](zhong-yang-chu-li-qi/ji-suan-ji-de-ji-suan-fang-fa.md)
 * [定点和浮点](zhong-yang-chu-li-qi/ding-dian-he-fu-dian.md)
