@@ -56,8 +56,8 @@
 ## 指令系统
 
 * [机器指令](zhi-ling-xi-tong/di-zhi-zhi-ling.md)
-* [操作数类型和操作种类](zhi-ling-xi-tong/cao-zuo-shu-lei-xing-he-cao-zuo-zhong-lei.md)
 * [寻址方式](zhi-ling-xi-tong/xun-zhi-fang-shi.md)
+* [操作数类型和操作种类](zhi-ling-xi-tong/cao-zuo-shu-lei-xing-he-cao-zuo-zhong-lei.md)
 
 ## 中断系统
 
