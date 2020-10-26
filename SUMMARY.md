@@ -50,7 +50,6 @@
 * [乘法器和除法器](zhong-yang-chu-li-qi/cheng-fa-qi-he-chu-fa-qi.md)
 * [CPU 的结构和功能](zhong-yang-chu-li-qi/chu-li-qi-de-she-ji.md)
 * [指令周期](zhong-yang-chu-li-qi/zhi-ling-zhou-qi.md)
-* [指令流水](zhong-yang-chu-li-qi/zhi-ling-liu-shui.md)
 * [处理器的设计](zhong-yang-chu-li-qi/chu-li-qi-de-she-ji-1.md)
 * [流水线处理器](zhong-yang-chu-li-qi/liu-shui-xian-chu-li-qi.md)
 
