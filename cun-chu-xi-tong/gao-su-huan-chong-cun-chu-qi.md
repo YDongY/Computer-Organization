@@ -19,7 +19,7 @@
 
 ![](../.gitbook/assets/cache-gong-zuo-yuan-li-.png)
 
-把主存储器和 Cache 分成**大小相等的块**，主存是 M 块，Cache 是 C 块，Cache 容量 C 远远小于主存的容量 M
+把主存储器和 Cache 分成**大小相等的块**，主存是 M 块，Cache 是 C 块，Cache 容量 C 远远小于主存的容量 M。
 
 
 

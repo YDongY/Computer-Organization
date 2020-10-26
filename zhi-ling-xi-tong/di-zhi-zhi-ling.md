@@ -1,6 +1,6 @@
-# 地址指令
+# 机器指令
 
-## 机器指令
+## 指令格式
 
 机器指令由操作码字段和地址码字段组成：
 
@@ -9,6 +9,8 @@
 * **操作码**
 
 用来指明该指令所要完成的操作，例如：加法、减法、移位等，其**位数反应了机器的操作种类，假设操作码有 7 位，则机器最多包含 2^7 = 128 条指令**
+
+操作码长度可以固定，比如 RISC，也可以是变化的，比如 x86 系列，但是会增加指令译码和分析的难度
 
 * **地址码**
 
@@ -29,7 +31,13 @@
 
 ![](../.gitbook/assets/zhi-ling-xi-tong-er-di-zhi-zhi-ling-.png)
 
+### 三地址指令
+
 ![](../.gitbook/assets/zhi-ling-xi-tong-san-di-zhi-zhi-ling-.png)
 
+### 四地址指令
+
 ![](../.gitbook/assets/zhi-ling-xi-tong-si-di-zhi-zhi-ling-.png)
+
+
 
