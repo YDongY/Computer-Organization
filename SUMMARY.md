@@ -10,10 +10,28 @@
 ## 计算机系统概述
 
 * [计算机的发展历史](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-fa-zhan-li-cheng-bei.md)
-* [计算机层次结构](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-ceng-ci-jie-gou.md)
 * [计算机的基本组成](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-ge-ying-jian-zu-cheng.md)
 * [计算机的工作步骤](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-de-gong-zuo-guo-cheng.md)
+* [计算机层次结构](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-ceng-ci-jie-gou.md)
 * [计算机硬件的主要技术指标](ji-suan-ji-xi-tong-gai-shu/ji-suan-ji-ying-jian-de-zhu-yao-ji-shu-zhi-biao.md)
+
+## 中央处理器
+
+* [计算机的运算方法](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/README.md)
+  * [进制运算与转换](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/jin-zhi-yun-suan-yu-zhuan-huan.md)
+  * [计算机的计算方法](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/ji-suan-ji-de-ji-suan-fang-fa.md)
+  * [定点和浮点](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/ding-dian-he-fu-dian.md)
+  * [移位运算](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/yi-wei-yun-suan.md)
+  * [BCD 码](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/bcd-ma.md)
+* [门电路的基本原理](zhong-yang-chu-li-qi/men-dian-lu-de-ji-ben-yuan-li.md)
+* [寄存器的基本原理](zhong-yang-chu-li-qi/ji-cun-qi-de-ji-ben-yuan-li.md)
+* [逻辑运算的实现](zhong-yang-chu-li-qi/luo-ji-yun-suan-de-shi-xian.md)
+* [加法和减法的实现](zhong-yang-chu-li-qi/jia-fa-he-jian-fa-de-shi-xian.md)
+* [乘法器和除法器](zhong-yang-chu-li-qi/cheng-fa-qi-he-chu-fa-qi.md)
+* [CPU 的结构和功能](zhong-yang-chu-li-qi/chu-li-qi-de-she-ji.md)
+* [指令周期](zhong-yang-chu-li-qi/zhi-ling-zhou-qi.md)
+* [处理器的设计](zhong-yang-chu-li-qi/chu-li-qi-de-she-ji-1.md)
+* [流水线处理器](zhong-yang-chu-li-qi/liu-shui-xian-chu-li-qi.md)
 
 ## 总线
 
@@ -36,23 +54,6 @@
 * [输入输出系统的概况](shu-ru-shu-chu-xi-tong/shu-ru-shu-chu-xi-tong-de-gai-kuang.md)
 * [I/O 控制方式](shu-ru-shu-chu-xi-tong/io-kong-zhi-fang-shi.md)
 
-## 中央处理器
-
-* [计算机的运算方法](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/README.md)
-  * [进制运算与转换](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/jin-zhi-yun-suan-yu-zhuan-huan.md)
-  * [计算机的计算方法](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/ji-suan-ji-de-ji-suan-fang-fa.md)
-  * [定点和浮点](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/ding-dian-he-fu-dian.md)
-  * [BCD 码](zhong-yang-chu-li-qi/ji-suan-ji-de-yun-suan-fang-fa/bcd-ma.md)
-* [门电路的基本原理](zhong-yang-chu-li-qi/men-dian-lu-de-ji-ben-yuan-li.md)
-* [寄存器的基本原理](zhong-yang-chu-li-qi/ji-cun-qi-de-ji-ben-yuan-li.md)
-* [逻辑运算的实现](zhong-yang-chu-li-qi/luo-ji-yun-suan-de-shi-xian.md)
-* [加法和减法的实现](zhong-yang-chu-li-qi/jia-fa-he-jian-fa-de-shi-xian.md)
-* [乘法器和除法器](zhong-yang-chu-li-qi/cheng-fa-qi-he-chu-fa-qi.md)
-* [CPU 的结构和功能](zhong-yang-chu-li-qi/chu-li-qi-de-she-ji.md)
-* [指令周期](zhong-yang-chu-li-qi/zhi-ling-zhou-qi.md)
-* [处理器的设计](zhong-yang-chu-li-qi/chu-li-qi-de-she-ji-1.md)
-* [流水线处理器](zhong-yang-chu-li-qi/liu-shui-xian-chu-li-qi.md)
-
 ## 指令系统
 
 * [机器指令](zhi-ling-xi-tong/di-zhi-zhi-ling.md)
@@ -62,9 +63,4 @@
 ## 中断系统
 
 * [中断系统基本概述](zhong-duan-xi-tong/zhong-duan-xi-tong-ji-ben-gai-shu.md)
-
-## 数据表示与运算
-
-* [字符与字符串](shu-ju-biao-shi-yu-yun-suan/zi-fu-yu-zi-fu-chuan.md)
-* [定点数](shu-ju-biao-shi-yu-yun-suan/ding-dian-shu.md)
 
